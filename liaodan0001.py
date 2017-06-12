@@ -1,3 +1,4 @@
+# coding=utf-8
 # name = input('please input your name: ')
 # print('hello,', name)
 # print('i\'m learning\n\"Python\"')
@@ -102,7 +103,7 @@
 # string = 'liao zhou shi shuai ge'
 # print(string.replace('l', 'L') + '\n' + string)
 
-############################################# d函数
+############################################# 函数
 # def my_abs(x):
 # 	if not isinstance(x, (int, float)):
 # 		raise TypeError('bad operand type')

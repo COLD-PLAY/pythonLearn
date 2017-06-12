@@ -1,10 +1,12 @@
+# -*- coding: utf-8 -*-
 import types
 from io import BytesIO
 from io import StringIO
 from types import MethodType
+import time
 # 获取当前系统时间
-# now = '%d-%d-%d' % time.localtime()[0:3]
-# print(now)
+now = '%d-%d-%d' % time.localtime()[0:3]
+print(now)
 
 # 继承与多态
 # class Animal(object):
